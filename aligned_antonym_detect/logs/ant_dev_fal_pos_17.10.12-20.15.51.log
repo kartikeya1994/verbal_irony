@@ -1,0 +1,56 @@
+love - dislike
+951(antonym_intensifier)
+Alignment: [('951\tlove', '0', 'i', 0), ('love', '0', 'dislike', 1), ('how', '1', 'how', 2), ('the', '2', 'the', 3), ('radio', '3', 'radio', 4), ('takes', '4', 'takes', 5), ('me', '5', 'me', 6), ('down', '6', 'down', 7), ('memory', '7', 'memory', 8), ('lane', '8', 'lane', 9), ('!', '9', '.', 10)]
+
+considerate - inconsiderate
+85(antonym_intensifier)
+Alignment: [('85\ti', '0', 'my', 0), ('to', '4', 'friend', 1), ('lucky', '3', 'are', 2), ('have', '5', 'inconsiderate', 3), ('such', '6', 'inconsiderate', 3), ('considerate', '7', 'inconsiderate', 3), ('friends', '8', 'inconsiderate', 3), ('friends', '8', '.', 4)]
+
+cool - uncool
+957(antonym_intensifier)
+Alignment: [('957\tdropping', '0', 'dropping', 0), ('the', '1', 'the', 1), ('f', '2', 'f', 2), ('bomb', '3', 'bomb', 3), ('at', '4', 'at', 4), ('least', '5', 'least', 5), ('once', '6', 'once', 6), ('every', '7', 'every', 7), ('sentence', '8', 'sentence', 8), ('makes', '9', 'makes', 9), ('you', '10', 'you', 10), ('so', '11', 'uncool', 11), ('cool', '12', 'uncool', 11)]
+
+inspiring - uninspiring
+1677(antonym_intensifier)
+Alignment: [('1677\ted', '0', 'ed', 0), ('davey', '1', 'davey', 1), ('is', '2', 'is', 2), ('a', '4', 'a', 3), ('passionate', '5', 'boring', 4), (',', '6', ',', 5), ('inspiring', '7', 'uninspiring', 6), ('speaker', '8', 'speaker', 7), ('ldconf', '11', 'speaker', 7), ('.', '9', '.', 8), ('#', '10', '.', 8)]
+
+happy - unhappy
+2721(antonym_intensifier)
+Alignment: [('2721\the', '0', 'he', 0), ('&apos;s', '1', '&apos;s', 1), ('so', '2', 'unhappy', 2), ('happy', '3', 'unhappy', 2), ('to', '4', 'to', 3), ('take', '5', 'take', 4), ('a', '6', 'a', 5), ('picture', '7', 'picture', 6), ('with', '8', 'with', 7), ('me', '9', 'me', 8), ('t.co', '14', '.', 9)]
+
+love - hate
+3555(antonym_intensifier)
+Alignment: [('3555\ti', '15', 'i', 0), ('love', '16', 'hate', 1), ('i', '0', 'i', 3), ('bed', '11', '&apos;m', 4), ('feel', '1', 'currently', 5), ('physically', '3', 'currently', 5), ('bed', '11', 'currently', 5), ('bad', '2', 'located', 6), ('physically', '3', 'located', 6), ('and', '4', 'located', 6), ('there', '5', 'located', 6), ('&apos;s', '6', 'located', 6), ('an', '7', 'located', 6), ('insect', '8', 'located', 6), ('above', '9', 'located', 6), ('my', '10', 'located', 6), ('.', '12', '.', 7)]
+
+winner - loser
+3763(antonym_intensifier)
+Alignment: [('3763\tif', '0', 'if', 0), ('anyone', '1', 'anyone', 1), ('has', '2', 'has', 2), ('karma', '4', 'karma', 3), ('coming', '5', 'coming', 4), ('for', '6', 'for', 5), ('them', '7', 'them', 6), ('it', '8', 'it', 7), ('would', '9', 'would', 8), ('be', '10', 'be', 9), ('the', '11', 'the', 10), ('bilemas', '12', 'bilemas', 11), ('congratulations', '14', 'bilemas', 11), ('...', '13', '...', 12), ('touser', '15', '@', 13), ('touser', '15', 'user', 14), ('you', '16', 'you', 15), ('picked', '17', 'picked', 16), ('a', '18', 'a', 17), ('winner', '20', 'loser', 18), ('.', '21', '.', 19)]
+
+love - dislike
+1819(antonym_intensifier)
+Alignment: [('1819\ti', '0', 'i', 0), ('love', '1', 'dislike', 1), ('people', '2', 'people', 2), ('who', '3', 'who', 3), ('when', '4', 'when', 4), ('you', '5', 'you', 5), ('like', '6', 'like', 6), ('one', '7', 'one', 7), (',', '8', ',', 8), ('stupid', '9', 'stupid', 9), ('artsy', '10', 'artsy', 10), ('instagram', '11', 'instagram', 11), ('picture', '12', 'picture', 12), ('of', '13', 'of', 13), ('theirs', '14', 'theirs', 14), ('message', '15', 'message', 15), ('you', '16', 'you', 16), ('and', '17', 'and', 17), ('are', '18', 'are', 18), ('all', '19', 'all', 19), ('&quot;', '20', '&quot;', 20), ('let', '21', 'let', 21), ('&apos;s', '22', '&apos;s', 22), ('hang', '23', 'hang', 23), ('out', '24', 'out', 24), ('!', '25', '!', 25), ('&quot;', '26', '&quot;', 26)]
+
+important - unimportant
+1687(antonym_intensifier,negation)
+Alignment: [('1687\ttouser', '0', 'i', 0), ('awe', '1', '&apos;m', 1), ('too', '3', 'glad', 2), ('bad', '4', 'glad', 2), ('you', '5', 'you', 3), ('couldn', '6', 'didn', 4), ('&apos;t', '7', '&apos;t', 5), ('cover', '8', 'have', 6), ('cover', '8', 'cover', 8), ('a', '9', 'a', 9), ('hyped', '10', 'hyped-up', 10), (',', '11', ',', 11), ('really', '12', 'unimportant', 12), ('important', '13', 'unimportant', 12), ('game', '14', 'game', 13), ('with', '15', 'with', 14), ('super-polarizing', '16', 'super-polarizing', 15), ('characters', '17', 'players', 16), ('on', '18', 'players', 16), ('...', '21', '.', 17)]
+
+good - bad
+2619(antonym_phrase)
+Alignment: [('2619\tuh', '0', 'this', 0), ('day', '6', 'day', 1), ('circling', '7', 'is', 2), ('circling', '7', 'turning', 3), ('down', '8', 'to', 5), ('good', '5', 'bad', 8), ('.', '14', '.', 9), ('#', '15', '#', 10), ('thisblows', '16', 'thisblows', 11)]
+
+thank - tell
+2145(negation)
+Alignment: [('2145\ti', '0', 'i', 0), ('would', '1', 'would', 1), ('just', '2', 'just', 2), ('like', '3', 'like', 3), ('to', '4', 'to', 4), ('thank', '5', 'tell', 5), ('touser', '6', '@', 6), ('touser', '6', 'user', 7), ('thank', '5', 'i', 8), ('for', '7', '&apos;t', 10), ('giving', '8', 'giving', 13), ('me', '9', 'me', 14), ('this', '10', 'this', 15), ('lovely', '11', 'cold', 16), ('cold', '12', 'cold', 16), ('!', '13', '!', 17), ('#', '14', '#', 18), ('thankyou', '15', 'thankyou', 19)]
+
+love - do
+2291(negation)
+Alignment: [('2291\ti', '0', 'i', 0), ('love', '1', 'do', 1), ('love', '1', 'like', 3), ('being', '2', 'being', 4), ('left', '3', 'left', 5), ('out', '4', 'out', 6)]
+
+trying - want
+1778(negation,antonym_intensifier)
+Alignment: [('1778\ti', '0', 'i', 0), ('like', '1', 'don', 1), ('trying', '2', 'want', 3), ('to', '3', 'to', 4), ('make', '4', 'make', 5), ('the', '5', 'dumb', 6), ('dumbest', '6', 'dumb', 6), ('face', '7', 'dumb', 6), ('possible', '8', 'dumb', 6), ('possible', '8', 'faces', 7), ('i', '10', 'faces', 7), ('think', '11', 'faces', 7), ('because', '9', 'because', 8), ('it', '12', 'it', 9), ('makes', '13', 'makes', 10), ('me', '14', 'me', 11), ('more', '15', 'unattractive', 12), ('attractive', '16', 'unattractive', 12), ('attractive', '16', '.', 13)]
+
+middle - end
+71(pragmatic_inference)
+Alignment: [('71\twhen', '2', 'it', 0), ('just', '4', 'is', 1), ('ok', '29', 'rude', 2), ('of', '13', 'to', 3), ('middle', '12', 'end', 4), ('of', '13', 'end', 4), ('a', '14', 'a', 5), ('conversation', '15', 'conversation', 6), ('&', '16', 'conversation', 6), ('gt', '17', 'conversation', 6), (';', '18', 'conversation', 6), ('&', '19', 'conversation', 6), ('gt', '20', 'conversation', 6), ('@', '0', 'abruptly', 7), ('you', '8', '.', 8)]
+

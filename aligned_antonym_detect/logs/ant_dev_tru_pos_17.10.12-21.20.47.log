@@ -1,0 +1,436 @@
+more - less
+13(antonym)
+Alignment: [('13\t@', '0', '@', 0), ('user', '1', 'user', 1), ('can', '2', 'can', 2), ('you', '3', 'you', 3), ('guys', '4', 'guys', 4), ('show', '5', 'show', 5), ('any', '6', 'any', 6), ('more', '7', 'less', 7), ('of', '8', 'of', 8), ('the', '9', 'the', 9), ('steelers', '10', 'steelers', 10), ('and', '11', 'and', 11), ('browns', '12', 'browns', 12), ('?', '13', '?', 13), ('?', '14', '?', 14), ('?', '15', '?', 15), ('good', '16', 'good', 16), ('lord', '17', 'lord', 17), ('.', '18', '.', 18)]
+
+great - terrible
+53(antonym)
+Alignment: [('53\t@', '0', '@', 0), ('user', '1', 'user', 1), ('user', '1', 'what', 2), ('great', '2', 'a', 3), ('great', '2', 'terrible', 4), ('way', '3', 'way', 5), ('to', '4', 'to', 6), ('start', '5', 'start', 7), ('out', '6', 'off', 8), ('my', '7', 'my', 9), ('shitty', '8', 'shitty', 10), ('week', '9', 'week', 11)]
+
+love - hate
+130(antonym)
+Alignment: [('130\ti', '0', 'i', 0), ('just', '1', 'just', 1), ('love', '2', 'hate', 2), ('migraines', '3', 'migraines', 3)]
+
+exciting - boring
+134(antonym)
+Alignment: [('134\ti', '0', 'i', 0), ('&apos;m', '1', '&apos;m', 1), ('having', '2', 'having', 2), ('an', '3', 'a', 3), ('exciting', '4', 'boring', 4), ('saturday', '5', 'saturday', 5), ('.', '6', '.', 6), ('woo', '7', 'boo', 7), ('hoo', '8', 'boo', 7), ('!', '9', '!', 8)]
+
+great - bad
+190(antonym)
+Alignment: [('190\tmaths', '0', 'maths', 0), ('first', '1', 'first', 1), ('tomorrow', '2', 'tomorrow', 2), (',', '3', ',', 3), ('great', '4', 'a', 4), ('great', '4', 'bad', 5), ('way', '5', 'way', 6), ('to', '6', 'to', 7), ('start', '7', 'start', 8), ('the', '8', 'the', 9), ('day', '9', 'day', 10)]
+
+always - never
+210(antonym)
+Alignment: [('210\ti', '0', 'i', 0), ('have', '1', 'have', 1), ('always', '2', 'never', 2), ('loved', '3', 'loved', 3), ('studying', '4', 'studying', 4), (')', '6', ')', 5), (':', '5', ':', 6)]
+
+encouraging - discouraging
+440(antonym)
+Alignment: [('440\tit', '1', 'it', 0), ('&apos;s', '2', '&apos;s', 1), ('encouraging', '3', 'discouraging', 2), ('how', '4', 'how', 3), ('portland', '5', 'portland', 4), ('police', '6', 'police', 5), ('officers', '7', 'officers', 6), ('feel', '8', 'feel', 7), ('they', '9', 'they', 8), ('&apos;re', '10', '&apos;re', 9), ('above', '11', 'above', 10), ('the', '12', 'the', 11), ('law', '13', 'law', 12), ('.', '14', '.', 13)]
+
+more - less
+550(antonym)
+Alignment: [('550\tafter', '0', 'after', 0), ('7', '1', '7', 1), ('hours', '2', 'hours', 2), ('of', '3', 'of', 3), ('work', '4', 'work', 4), (',', '5', ',', 5), ('there', '6', 'there', 6), ('&apos;s', '7', '&apos;s', 7), ('nothing', '8', 'nothing', 8), ('i', '9', 'i', 9), ('look', '10', 'look', 10), ('forward', '11', 'forward', 11), ('to', '12', 'to', 12), ('more', '13', 'less', 13), ('than', '14', 'than', 14), ('2', '15', '2', 15), ('more', '16', 'more', 16), ('hours', '17', 'hours', 17), ('of', '18', 'of', 18), ('work', '19', 'work', 19), ('.', '20', '.', 20), ('#', '21', '#', 21), ('ineedanap', '22', 'ineedanap', 22)]
+
+good - bad
+589(antonym)
+Alignment: [('589\tyou', '0', 'josh', 0), ('what', '2', 'josh', 0), ('josh', '4', 'josh', 0), ('know', '1', 'freeman', 1), ('?', '3', 'freeman', 1), ('freeman', '5', 'freeman', 1), ('looks', '6', 'looks', 2), ('good', '8', 'bad', 3), ('drive', '11', 'like', 4)]
+
+pleasant - unpleasant
+613(antonym)
+Alignment: [('613\tit', '0', 'it', 0), ('&apos;s', '1', '&apos;s', 1), ('so', '2', 'so', 2), ('pleasant', '3', 'unpleasant', 3), ('in', '4', 'in', 4), ('the', '5', 'the', 5), ('devonport', '6', 'devonport', 6), ('ferry', '7', 'ferry', 7), ('building', '8', 'building', 8), ('with', '9', 'with', 9), ('all', '10', 'all', 10), ('these', '11', 'these', 11), ('screaming', '12', 'screaming', 12), ('children', '13', 'children', 13), ('.', '14', '.', 14)]
+
+love - hate
+617(antonym)
+Alignment: [('617\ti', '0', 'i', 0), ('just', '1', 'just', 1), ('love', '2', 'hate', 2), ('doing', '3', 'doing', 3), ('laundry', '4', 'laundry', 4)]
+
+always - never
+634(antonym)
+Alignment: [('634\ttouser', '0', 'vince', 0), ('thanks', '1', 'vince', 0), ('vince', '2', 'vince', 0), ('you', '3', 'vince', 0), ('vince', '2', 'has', 1), ('always', '5', 'never', 2), ('had', '6', 'had', 3), ('a', '8', 'a', 4), ('way', '9', 'way', 5), ('with', '10', 'with', 6), ('words', '11', 'words', 7), ('words', '11', '.', 8)]
+
+love - hate
+656(antonym)
+Alignment: [('656\taww', '0', 'i', 0), ('love', '1', 'hate', 1), ('it', '2', 'it', 2), ('when', '3', 'when', 3), ('my', '4', 'my', 4), ('housemate', '5', 'housemate', 5), ('is', '6', 'is', 6), ('an', '7', 'an', 7), ('attention', '8', 'attention', 8), ('seeker', '9', 'seeker', 9), ('at', '10', 'at', 10), ('3am', '11', '3am', 11), ('#', '12', '3am', 11), ('indirect', '13', '3am', 11), ('#', '14', '3am', 11), ('twat', '15', '3am', 11), ('#', '12', '.', 12)]
+
+love - hate
+948(antonym)
+Alignment: [('948\tlove', '0', 'i', 0), ('love', '0', 'hate', 1), ('how', '1', 'how', 2), ('the', '2', 'the', 3), ('radio', '3', 'radio', 4), ('takes', '4', 'takes', 5), ('me', '5', 'me', 6), ('down', '6', 'down', 7), ('memory', '7', 'memory', 8), ('lane', '8', 'lane', 9), ('!', '9', 'lane', 9)]
+
+great - bad
+1000(antonym)
+Alignment: [('1000\t_', '0', '_', 0), ('school', '1', 'school', 1), ('...', '2', '...', 2), ('great', '3', 'bad', 3), ('...', '4', '...', 4), ('well', '5', 'well', 5), ('i', '6', 'i', 6), ('guess', '7', 'guess', 7), ('its', '8', 'its', 8), ('not', '9', 'not', 9), ('so', '10', 'so', 10), ('bad', '11', 'bad', 11), ('...', '12', '...', 12), ('i', '13', 'i', 13), ('have', '14', 'have', 14), ('thanksgiving', '15', 'thanksgiving', 15), ('break', '16', 'break', 16), ('yea', '17', 'yea', 17), ('#', '19', 'yea', 17), ('thanksgiving', '20', 'yea', 17), ('#', '21', 'yea', 17), ('..', '18', '..', 18)]
+
+good - bad
+1036(antonym)
+Alignment: [('1036\ti', '0', 'i', 0), ('think', '1', 'think', 1), ('i', '2', 'i', 2), ('chose', '3', 'chose', 3), ('a', '4', 'a', 4), ('really', '5', 'really', 5), ('good', '6', 'bad', 6), ('game', '7', 'game', 7), ('to', '8', 'to', 8), ('go', '9', 'go', 9), ('watch', '10', 'watch', 10), ('....', '11', '....', 11)]
+
+best - worst
+1068(antonym)
+Alignment: [('1068\tbeing', '0', 'being', 0), ('forgotten', '1', 'forgotten', 1), ('and', '2', 'and', 2), ('being', '3', 'being', 3), ('left', '4', 'left', 4), ('out', '5', 'out', 5), ('is', '6', 'is', 6), ('the', '7', 'the', 7), ('best', '8', 'worst', 8), ('feeling', '9', 'feeling', 9), ('ever', '10', 'ever', 10), ('-.-', '11', '-.-', 11)]
+
+love - hate
+1119(antonym)
+Alignment: [('1119\tall', '0', 'all', 0), ('day', '1', 'day', 1), ('with', '2', 'with', 2), ('kinder', '3', 'kinder', 3), ('kids', '4', 'kids', 4), ('and', '5', 'and', 5), ('now', '6', 'now', 6), ('a', '7', 'a', 7), ('lesson', '8', 'lesson', 8), ('plan', '9', 'plan', 9), ('woooh', '11', 'plan', 9), ('....', '10', '....', 10), ('i', '12', 'i', 11), ('love', '13', 'hate', 12), ('the', '14', 'being', 13), ('life', '16', 'a', 14), ('teacher', '15', 'teacher', 15), ('teacher', '15', '.', 16)]
+
+best - worst
+1132(antonym)
+Alignment: [('1132\tstress', '0', 'stress', 0), ('is', '1', 'is', 1), ('always', '2', 'always', 2), ('the', '3', 'the', 3), ('best', '4', 'worst', 4)]
+
+good - bad
+1149(antonym)
+Alignment: [('1149\tman', '0', 'man', 0), ('michigan', '1', 'michigan', 1), ('your', '2', 'your', 2), ('michigan', '1', '&#91;', 3), ('michigan', '1', 'sic', 4), ('michigan', '1', '&#93;', 5), ('so', '3', 'so', 6), ('good', '4', 'bad', 7), ('!', '5', '!', 8)]
+
+love - hate
+1261(antonym)
+Alignment: [('1261\ti', '0', 'i', 0), ('love', '1', 'just', 1), ('love', '1', 'hate', 2), ('listening', '2', 'when', 4), ('ineedsleep', '19', 'can', 6), ('other', '4', 'other', 8), ('people', '5', 'people', 9), ('&apos;s', '6', '&apos;s', 10), ('music', '7', 'music', 11), ('through', '8', 'through', 12), ('their', '9', 'their', 13), ('headphones', '10', 'headphones', 14), ('while', '11', 'headphones', 14), ('while', '11', 'when', 15), ('i', '12', 'i', 16), ('am', '13', 'am', 17), ('trying', '14', 'trying', 18), ('to', '15', 'to', 19), ('nap', '16', 'nap', 20), ('...', '17', '...', 21)]
+
+love - hate
+1266(antonym)
+Alignment: [('1266\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('when', '2', 'it', 2), ('when', '2', 'when', 3), ('people', '3', 'people', 4), ('lie', '4', 'lie', 5), ('to', '5', 'to', 6), ('me', '6', 'me', 7), ('about', '7', 'about', 8), ('things', '8', 'things', 9), ('i', '9', 'i', 10), ('already', '12', 'already', 11), ('know', '17', 'know', 12), ('anything', '18', 'the', 13), ('funnier', '19', 'truth', 14), ('than', '20', 'truth', 14), ('how', '21', 'truth', 14), ('stupid', '22', 'truth', 14), ('about', '11', 'about', 15), ('them', '26', '.', 16)]
+
+love - hate
+1288(antonym)
+Alignment: [('1288\ti', '0', 'i', 0), ('early', '8', 'really', 1), ('love', '1', 'hate', 2), ('when', '2', 'that', 3), ('my', '3', 'my', 4), ('flight', '4', 'luggage', 5), ('makes', '5', 'luggage', 5), ('it', '6', 'luggage', 5), ('luggage', '13', 'luggage', 5), ('decides', '14', 'luggage', 5), ('decides', '14', 'got', 6), ('to', '15', 'behind', 8), ('in', '17', 'in', 9), ('dfw', '18', 'dfw', 10), ('goodstart', '21', 'dfw', 10), ('nothappy', '23', 'dfw', 10), ('.', '19', '.', 11), ('#', '20', '.', 11), ('#', '22', '.', 11)]
+
+cool - uncool
+1436(antonym)
+Alignment: [('1436\tmr', '0', 'mr', 0), ('shey', '1', 'shey', 1), ('why', '2', 'why', 2), ('are', '3', 'are', 3), ('you', '4', 'you', 4), ('so', '5', 'so', 5), ('cool', '6', 'uncool', 6), ('?', '7', '?', 7), ('?', '8', '?', 8), ('?', '9', '?', 9), ('?', '10', '?', 10)]
+
+love - hate
+1518(antonym)
+Alignment: [('1518\tdon', '0', 'don', 0), ('&apos;t', '1', '&apos;t', 1), ('you', '2', 'you', 2), ('just', '3', 'just', 3), ('love', '4', 'hate', 4), ('those', '5', 'those', 5), ('come', '6', 'come', 6), ('get', '7', 'get', 7), ('me', '8', 'me', 8), ('im', '9', 'i', 9), ('im', '9', '&apos;m', 10), ('in', '10', 'in', 11), ('jail', '11', 'jail', 12), ('phone', '12', 'phone', 13), ('calls', '13', 'calls', 14), ('..', '14', '..', 15), ('.', '15', '.', 16)]
+
+love - hate
+1559(antonym)
+Alignment: [('1559\talways', '0', 'i', 0), ('love', '1', 'hate', 1), ('after', '2', 'after', 2), ('sending', '3', 'sending', 3), ('a', '4', 'a', 4), ('long', '5', 'long', 5), ('message', '6', 'message', 6), ('okay', '16', ',', 7), ('simply', '7', 'simply', 8), ('getting', '8', 'getting', 9), ('okay', '9', 'okay', 10), ('back', '10', 'back', 11), ('!', '11', '.', 12)]
+
+love - hate
+1561(antonym)
+Alignment: [('1561\talways', '0', 'i', 0), ('love', '1', 'hate', 1), ('after', '2', 'when', 2), ('sending', '3', 'you', 3), ('sending', '3', 'send', 4), ('a', '4', 'a', 5), ('long', '5', 'long', 6), ('message', '6', 'message', 7), ('simply', '7', 'and', 8), ('simply', '7', 'you', 9), ('simply', '7', 'just', 10), ('getting', '8', 'get', 11), ('okay', '9', '&quot;', 12), ('okay', '9', 'okay', 13), ('okay', '9', '&quot;', 14), ('back', '10', 'back', 15), ('!', '11', '.', 16), ('!', '12', '.', 16)]
+
+healthy - unhealthy
+1569(antonym)
+Alignment: [('1569\teating', '0', 'eating', 0), ('before', '1', 'before', 1), ('bed', '2', 'bed', 2), ('is', '3', 'is', 3), ('always', '4', 'unhealthy', 4), ('healthy', '5', 'unhealthy', 4)]
+
+best - worst
+1580(antonym)
+Alignment: [('1580\tthe', '0', 'the', 0), ('best', '1', 'worst', 1), ('part', '2', 'part', 2), ('of', '3', 'of', 3), ('watching', '4', 'watching', 4), ('this', '5', 'this', 5), ('terrible', '6', 'terrible', 6), ('mets', '8', 'mets', 7), ('game', '9', 'game', 8), (',', '10', ',', 9), ('is', '11', 'is', 10), ('that', '12', 'that', 11), ('in', '13', 'in', 12), ('just', '14', 'just', 13), ('25-30', '15', '25-30', 14), ('minutes', '16', 'minutes', 15), ('we', '17', 'we', 16), ('get', '18', 'get', 17), ('to', '19', 'to', 18), ('watch', '20', 'watch', 19), ('game', '21', 'game', 20), ('2', '22', '2', 21)]
+
+love - hate
+1631(antonym)
+Alignment: [('1631\tbased', '0', 'based', 0), ('on', '1', 'on', 1), ('her', '2', 'her', 2), ('book', '3', 'book', 3), ('and', '4', 'and', 4), ('tweets', '5', 'tweets', 5), (',', '6', ',', 6), ('i', '7', 'i', 7), ('&apos;d', '8', '&apos;d', 8), ('love', '9', 'hate', 9), ('to', '10', 'to', 10), ('hang', '11', 'hang', 11), ('out', '12', 'out', 12), ('with', '13', 'with', 13)]
+
+love - hate
+1663(antonym)
+Alignment: [('1663\twanna', '0', 'wanna', 0), ('know', '1', 'know', 1), ('what', '2', 'what', 2), ('i', '3', 'i', 3), ('love', '4', 'hate', 4), ('doing', '5', 'doing', 5), ('8', '6', '8', 6), ('hours', '7', 'hours', 7), ('after', '8', 'after', 8), ('a', '9', 'a', 9), ('pt', '10', 'pt', 10), ('test', '11', 'test', 11), ('?', '12', '?', 12), ('.....', '13', '.....', 13), ('more', '14', 'more', 14), ('pt', '15', 'pt', 15), ('...', '16', '...', 16), ('time', '17', 'time', 17), ('to', '18', 'to', 18), ('start', '19', 'start', 19), ('another', '20', 'another', 20), ('glorious', '21', 'bad', 21), ('day', '22', 'day', 22), ('...', '23', '...', 23)]
+
+love - hate
+1703(antonym)
+Alignment: [('1703\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('doing', '2', 'doing', 2), ('doing', '2', 'things', 3), ('things', '3', 'at', 4), ('at', '4', 'the', 5), ('last', '5', 'last', 6), ('minute', '6', 'minute', 7), ('minute', '6', '.', 8)]
+
+great - terrible
+1782(antonym)
+Alignment: [('1782\t#', '0', '#', 0), ('alabama', '1', 'alabama', 1), ('&apos;s', '2', '&apos;s', 2), ('defense', '3', 'defense', 3), ('is', '4', 'is', 4), ('off', '5', 'off', 5), ('to', '6', 'to', 6), ('a', '7', 'a', 7), ('great', '8', 'terrible', 8), ('start', '9', 'start', 9), ('in', '10', 'in', 10), ('this', '11', 'this', 11), ('game', '12', 'game', 12), ('..', '13', '..', 13)]
+
+more - less
+1800(antonym)
+Alignment: [('1800\ttry', '0', 'try', 0), ('to', '1', 'to', 1), ('be', '2', 'be', 2), ('a', '3', 'a', 3), ('little', '4', 'little', 4), ('more', '5', 'less', 5), ('trashy', '6', 'trashy', 6), (',', '7', ',', 7), ('tallahassee', '8', 'tallahassee', 8), ('.', '9', '.', 9)]
+
+best - worst
+1803(antonym)
+Alignment: [('1803\ti', '0', 'i', 0), ('&apos;m', '1', '&apos;m', 1), ('getting', '2', 'getting', 2), ('interrogated', '3', 'interrogated', 3), ('by', '4', 'by', 4), ('my', '5', 'my', 5), ('mom', '6', 'mom', 6), ('while', '7', 'while', 7), ('trying', '8', 'trying', 8), ('to', '9', 'to', 9), ('do', '10', 'do', 10), ('community', '11', 'community', 11), ('service', '12', 'service', 12), ('...', '13', 'service', 12), ('isn', '14', 'service', 12), ('&apos;t', '15', 'service', 12), ('...', '13', '.', 13), ('this', '16', 'this', 14), ('just', '17', 'is', 15), ('the', '18', 'the', 16), ('best', '19', 'worst', 17), ('day', '20', 'day', 18), ('ever', '21', 'ever', 19), ('.', '22', '.', 20)]
+
+good - bad
+1901(antonym)
+Alignment: [('1901\tman', '0', 'man', 0), ('it', '1', 'it', 1), ('&apos;s', '2', '&apos;s', 2), ('a', '3', 'a', 3), ('good', '4', 'bad', 4), ('thing', '5', 'thing', 5), ('molly', '6', 'that', 6), ('molly', '6', 'molly', 7), ('dineen', '7', 'dineen', 8), ('doesn', '8', 'doesn', 9), ('&apos;t', '9', '&apos;t', 10), ('have', '10', 'have', 11), ('feelings', '11', 'feelings', 12), ('like', '12', 'like', 13), ('everyone', '13', 'everyone', 14), ('else', '14', 'else', 15), ('#', '15', '#', 16), ('heartless', '16', 'heartless', 17)]
+
+love - hate
+1980(antonym)
+Alignment: [('1980\tthank', '0', 'i', 0), ('you', '1', 'hate', 1), ('you', '6', 'you', 3), ('&apos;ve', '7', '&apos;ve', 4), ('for', '2', 'told', 5), ('told', '8', 'told', 5), ('all', '3', 'all', 6), ('the', '4', 'these', 7), ('lies', '5', 'lies', 8), ('.', '9', '.', 9), ('i', '10', 'i', 10), ('just', '11', 'really', 11), ('love', '12', 'hate', 12), ('liars', '13', 'liars', 13), ('.', '14', '.', 14)]
+
+better - worse
+2139(antonym)
+Alignment: [('2139\tnothing', '0', 'nothing', 0), ('better', '1', 'worse', 1), ('than', '2', 'than', 2), ('not', '3', 'not', 3), ('being', '4', 'being', 4), ('able', '5', 'able', 5), ('to', '6', 'to', 6), ('sleep', '7', 'sleep', 7)]
+
+best - worst
+2178(antonym)
+Alignment: [('2178\tthis', '3', 'this', 0), ('is', '4', 'is', 1), ('the', '5', 'the', 2), ('best', '6', 'worst', 3), ('music', '7', 'music', 4), ('video', '8', 'video', 5), ('ever', '9', 'ever', 6), ('made', '10', 'made', 7), ('!', '11', '.', 8)]
+
+fair - unfair
+2203(antonym)
+Alignment: [('2203\they', '1', 'hey', 0), ('least', '3', ',', 1), ('the', '4', 'the', 2), ('refs', '5', 'refs', 3), ('were', '6', 'were', 4), ('fair', '7', 'unfair', 5)]
+
+love - hate
+2297(antonym)
+Alignment: [('2297\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('it', '2', 'it', 2), ('when', '3', 'when', 3), ('we', '4', 'we', 4), ('go', '5', 'go', 5), ('into', '6', 'into', 6), ('stall', '7', 'stall', 7), ('offense', '8', 'offense', 8), ('and', '9', 'and', 9), ('suck', '10', 'suck', 10), ('defense', '11', 'defense', 11), ('in', '12', 'in', 12), ('the', '13', 'the', 13), ('third', '14', 'third', 14), ('quarter', '15', 'quarter', 15), ('.', '16', '.', 16)]
+
+on - off
+2308(antonym)
+Alignment: [('2308\tbrady', '0', 'brady', 0), ('&apos;s', '1', '&apos;s', 1), ('long', '2', 'long', 2), ('ball', '3', 'ball', 3), ('has', '4', 'has', 4), ('been', '5', 'been', 5), ('on', '7', 'off', 6), ('point', '8', 'point', 7), ('waaaaaayoff', '11', 'point', 7), ('!', '9', '.', 8), ('#', '10', '.', 8)]
+
+love - hate
+2332(antonym)
+Alignment: [('2332\ti', '0', 'i', 0), ('just', '1', 'just', 1), ('love', '2', 'hate', 2), ('being', '3', 'being', 3), ('put', '4', 'put', 4), ('in', '5', 'in', 5), ('the', '6', 'the', 6), ('hospital', '7', 'hospital', 7), ('for', '8', 'for', 8), ('dehydration', '9', 'dehydration', 9), ('..', '10', '..', 10)]
+
+love - hate
+2337(antonym)
+Alignment: [('2337\ta', '0', 'an', 0), ('nice', '1', 'angry', 1), ('angry', '2', 'angry', 1), ('letter', '3', 'letter', 2), ('to', '4', 'to', 3), ('the', '5', 'the', 4), ('neighbors', '6', 'neighbors', 5), ('on', '7', 'on', 6), ('a', '8', 'a', 7), ('sunday', '9', 'sunday', 8), ('.', '10', '.', 9), ('i', '12', 'i', 10), ('love', '13', 'hate', 11), ('living', '14', 'living', 12), ('here', '15', 'here', 13), ('flats', '16', '.', 14), ('#', '17', '.', 14)]
+
+love - hate
+2351(antonym)
+Alignment: [('2351\ti', '0', 'i', 0), ('forgot', '1', 'forgot', 1), ('how', '2', 'how', 2), ('much', '3', 'much', 3), ('i', '4', 'i', 4), ('love', '5', 'hate', 5), ('writing', '6', 'writing', 6), ('labs', '7', 'labs', 7)]
+
+love - hate
+2406(antonym)
+Alignment: [('2406\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('when', '2', 'when', 2), ('people', '3', 'people', 3), ('sub', '4', 'sub', 4), ('tweet', '5', 'tweet', 5), ('me', '6', 'me', 6), ('.', '7', '.', 7), ('#', '8', '.', 7)]
+
+always - never
+2481(antonym)
+Alignment: [('2481\tquality', '5', 'my', 0), ('convos', '6', 'convos', 1), ('with', '7', 'with', 2), ('touser', '8', '@', 3), ('touser', '8', 'user', 4), ('always', '0', 'never', 6), ('thrilling', '3', 'thrilling', 7), ('and', '4', 'or', 8), ('quality', '5', 'quality', 9), ('convos', '6', ',', 10), ('convos', '6', 'including', 11), ('the', '1', 'the', 12), ('most', '2', 'most', 13), ('thrilling', '3', 'recent', 14)]
+
+love - hate
+2488(antonym)
+Alignment: [('2488\ti', '0', 'i', 0), ('love', '2', 'hate', 1), ('waking', '3', 'waking', 2), ('up', '4', 'up', 3), ('with', '5', 'with', 4), ('a', '6', 'a', 5), ('swollen', '7', 'swollen', 6), ('eye', '8', 'eye', 7), ('..', '9', '.', 8)]
+
+love - hate
+2510(antonym)
+Alignment: [('2510\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('it', '2', 'it', 2), ('when', '3', 'when', 3), ('people', '4', 'people', 4), ('tell', '5', 'tell', 5), ('me', '6', 'me', 6), ('i', '7', 'i', 8), ('should', '8', 'should', 9), ('eat', '9', 'eat', 10), ('foodstuffs', '10', 'food', 11), ('that', '11', 'that', 12), ('would', '12', 'would', 13), ('tie', '13', 'tie', 14), ('me', '14', 'me', 15), ('to', '15', 'to', 16), ('the', '16', 'the', 17), ('toilet', '17', 'toilet', 18), ('.', '18', '.', 19), ('#', '19', '#', 20), ('ibs', '20', 'ibs', 21)]
+
+lucky - unlucky
+2521(antonym)
+Alignment: [('2521\thow', '0', 'how', 0), ('did', '1', 'did', 1), ('i', '2', 'i', 2), ('get', '3', 'get', 3), ('so', '4', 'so', 4), ('lucky', '5', 'unlucky', 5), ('to', '6', 'to', 6), ('be', '7', 'be', 7), ('in', '8', 'in', 8), ('the', '9', 'the', 9), ('same', '10', 'same', 10), ('restaurant', '11', 'restaurant', 11), ('as', '12', 'as', 12), ('you', '13', 'you', 13), ('?', '14', '?', 14)]
+
+love - hate
+2790(antonym)
+Alignment: [('2790\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('going', '2', 'going', 2), ('dress', '3', 'dress', 3), ('shopping', '4', 'shopping', 4), ('and', '5', 'and', 5), ('not', '6', 'not', 6), ('even', '10', 'even', 7), ('finding', '7', 'finding', 8), ('suitable', '11', 'finding', 8), ('one', '8', 'one', 9), ('of', '12', 'to', 10), ('trying', '13', 'try', 11), ('on', '14', 'on', 12)]
+
+good - bad
+2801(antonym)
+Alignment: [('2801\tall', '0', 'all', 0), ('your', '1', 'your', 1), ('friends', '2', 'friends', 2), ('hate', '3', 'hate', 3), ('me', '4', 'me', 4), (',', '5', ',', 5), ('that', '6', 'that', 6), ('makes', '7', 'makes', 7), ('me', '8', 'me', 8), ('feel', '9', 'feel', 9), ('really', '10', 'really', 10), ('good', '11', 'bad', 11), ('.', '12', '.', 12)]
+
+love - hate
+2821(antonym)
+Alignment: [('2821\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('when', '2', 'when', 2), ('people', '3', 'people', 3), ('talk', '4', 'talk', 4), ('about', '5', 'about', 5), ('stuff', '6', 'stuff', 6), ('that', '7', 'that', 7), ('they', '8', 'they', 8), ('know', '9', 'know', 9), ('nothing', '10', 'nothing', 10), ('about', '11', 'about', 11)]
+
+love - hate
+2905(antonym)
+Alignment: [('2905\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('when', '2', 'it', 2), ('when', '2', 'when', 3), ('it', '3', 'it', 4), ('down', '4', 'down', 5), ('pours', '5', 'pours', 6), ('at', '6', 'at', 7), ('the', '7', 'the', 8), ('baseball', '8', 'baseball', 9), ('game', '9', 'game', 10), ('.', '10', '.', 11)]
+
+love - hate
+2907(antonym)
+Alignment: [('2907\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('when', '2', 'when', 2), ('it', '3', 'it', 3), ('down', '4', 'down', 4), ('pours', '5', 'pours', 5), ('at', '6', 'at', 6), ('the', '7', 'the', 7), ('baseball', '8', 'baseball', 8), ('game', '9', 'game', 9), ('.', '10', '.', 10)]
+
+great - terrible
+3113(antonym)
+Alignment: [('3113\tno', '1', 'get', 0), ('touser', '0', 'rid', 1), ('he', '4', 'he', 5), ('is', '5', '&apos;s', 6), ('a', '6', 'a', 7), ('great', '7', 'terrible', 8), ('coach', '8', 'coach', 9), ('.', '9', '.', 10), ('2', '12', '2', 11), ('straight', '13', 'straight', 12), ('losses', '14', 'losses', 13), ('with', '15', 'with', 14), ('those', '16', 'such', 15), ('recruiting', '20', 'good', 16), ('constant', '17', 'recruits', 17), ('top', '18', 'recruits', 17), ('10', '19', 'recruits', 17), ('recruiting', '20', 'recruits', 17), ('classes', '21', 'recruits', 17), ('.', '22', '.', 18), ('he', '23', 'he', 19), ('&apos;s', '24', '&apos;s', 20), ('great', '25', 'terrible', 21), ('!', '26', '.', 22)]
+
+great - terrible
+3177(antonym)
+Alignment: [('3177\tit', '0', 'it', 0), ('&apos;s', '1', '&apos;s', 1), ('a', '2', 'a', 2), ('great', '3', 'terrible', 3), ('feeling', '4', 'feeling', 4), ('when', '5', 'when', 5), ('you', '6', 'you', 6), ('wake', '7', 'wake', 7), ('up', '8', 'up', 8), ('to', '9', 'to', 9), ('no', '10', 'no', 10), ('power', '11', 'power', 11), ('!', '12', '!', 12)]
+
+happy - unhappy
+3212(antonym)
+Alignment: [('3212\ti', '0', 'i', 0), ('&apos;m', '1', '&apos;m', 1), ('feeling', '2', 'feeling', 2), ('so', '3', 'so', 3), ('happy', '4', 'unhappy', 4), ('gosh', '5', 'unhappy', 4), ('never', '6', 'unhappy', 4), ('felt', '7', 'unhappy', 4), ('this', '8', 'unhappy', 4), ('way', '9', 'unhappy', 4), ('before', '10', 'unhappy', 4), (':', '11', 'unhappy', 4), ('d', '12', 'unhappy', 4), ('...', '13', '.', 5)]
+
+good - bad
+3217(antonym)
+Alignment: [('3217\tgood', '0', 'i', 0), ('to', '1', 'hate', 1), ('know', '2', 'knowing', 2), ('i', '3', 'i', 3), ('have', '4', 'have', 4), ('good', '5', 'bad', 5), ('friends', '6', 'friends', 6)]
+
+better - worse
+3225(antonym)
+Alignment: [('3225\tnow', '0', 'now', 0), ('i', '1', 'i', 1), ('feel', '2', 'feel', 2), ('even', '3', 'even', 3), ('better', '4', 'worse', 4), ('.', '5', '.', 5), ('.', '9', '.', 5)]
+
+love - hate
+3231(antonym)
+Alignment: [('3231\ti', '0', 'i', 0), ('just', '1', 'just', 1), ('really', '2', 'really', 2), ('love', '3', 'hate', 3), ('seeing', '4', 'seeing', 4), ('all', '5', 'all', 5), ('these', '6', 'these', 6), ('mayweather', '7', 'mayweather', 7), ('tweets', '8', 'tweets', 8), ('/', '9', '/', 9), ('posts', '10', 'posts', 10), ('.', '11', '.', 11), (':', '12', ':', 12), ('d', '13', 'd', 13)]
+
+entertaining - boring
+3329(antonym)
+Alignment: [('3329\tliars', '0', 'liars', 0), ('are', '1', 'are', 1), ('so', '2', 'so', 2), ('entertaining', '3', 'boring', 3), ('...', '4', '...', 4), ('#', '5', '#', 5), ('ihateyou', '6', 'ihateyou', 6)]
+
+beautiful - ugly
+3363(antonym)
+Alignment: [('3363\ti', '0', 'i', 0), ('am', '1', 'am', 1), ('sending', '2', 'sending', 2), ('some', '3', 'some', 3), ('beautiful', '4', 'ugly', 4), ('snap', '5', 'snap', 5), ('chats', '6', 'chats', 6), ('tonight', '7', 'tonight', 7), ('.', '8', '.', 8)]
+
+love - hate
+3498(antonym)
+Alignment: [('3498\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('waking', '2', 'waking', 2), ('up', '3', 'up', 3), ('with', '4', 'with', 4), ('a', '5', 'a', 5), ('cut', '6', 'sore', 6), ('tongue', '7', 'tongue', 7), ('...', '8', '.', 8)]
+
+love - hate
+3510(antonym)
+Alignment: [('3510\tlove', '0', 'i', 0), ('love', '0', 'hate', 1), ('it', '1', 'it', 2), ('when', '2', 'when', 3), ('people', '3', 'people', 4), ('drive', '4', 'drive', 5), ('by', '5', 'by', 6), ('and', '6', 'and', 7), ('randomly', '7', 'randomly', 8), ('honk', '8', 'honk', 9), ('this', '9', 'this', 10), ('late', '10', 'late', 11), ('at', '11', 'at', 12), ('night', '12', 'night', 13)]
+
+better - worse
+3565(antonym)
+Alignment: [('3565\tthere', '0', 'there', 0), ('&apos;s', '1', '&apos;s', 1), ('nothing', '2', 'nothing', 2), ('better', '3', 'worse', 3), ('than', '4', 'than', 4), ('people', '5', 'people', 5), ('who', '6', 'who', 6), ('constantly', '7', 'constantly', 7), ('think', '8', 'think', 8), ('their', '9', 'their', 9), ('opinion', '10', 'opinion', 10), ('is', '11', 'is', 11), ('right', '12', 'right', 12)]
+
+love - hate
+3578(antonym)
+Alignment: [('3578\tlove', '0', 'i', 0), ('love', '0', 'hate', 1), ('it', '1', 'it', 2), ('when', '2', 'when', 3), ('friends', '3', 'friends', 4), ('brush', '4', 'brush', 5), ('off', '5', 'off', 6), ('serious', '6', 'serious', 7), ('shit', '7', 'shit', 8), ('that', '8', 'that', 9), ('i', '9', 'i', 10), ('tell', '10', 'tell', 11), ('them', '11', 'them', 12), ('them', '11', '.', 13)]
+
+good - bad
+3661(antonym)
+Alignment: [('3661\tyour', '1', 'you', 0), ('your', '1', '&apos;re', 1), ('good', '2', 'bad', 2), ('at', '3', 'at', 3), ('spelling', '4', 'spelling', 4), ('spelling', '4', '.', 5)]
+
+love - hate
+3792(antonym)
+Alignment: [('3792\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('it', '2', 'it', 2), ('when', '3', 'when', 3), ('people', '4', 'people', 4), ('give', '5', 'give', 5), ('up', '6', 'up', 6), ('on', '7', 'on', 7), ('something', '8', 'something', 8), ('they', '9', 'they', 9), ('really', '10', 'really', 10), ('want', '11', 'want', 11), ('not', '13', 'want', 11), ('#', '12', '.', 12)]
+
+love - hate
+3794(antonym)
+Alignment: [('3794\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('it', '2', 'it', 2), ('when', '3', 'when', 3), ('people', '4', 'people', 4), ('give', '5', 'give', 5), ('up', '6', 'up', 6), ('on', '7', 'on', 7), ('something', '8', 'something', 8), ('they', '9', 'they', 9), ('really', '10', 'really', 10), ('want', '11', 'want', 11)]
+
+love - hate
+3874(antonym)
+Alignment: [('3874\tdon', '0', 'don', 0), ('&apos;t', '1', '&apos;t', 1), ('you', '2', 'you', 2), ('love', '3', 'hate', 3), ('how', '4', 'how', 4), ('an', '5', 'an', 5), ('amazing', '6', 'amazing', 6), ('night', '7', 'night', 7), ('gets', '8', 'gets', 8), ('ruined', '9', 'ruined', 9), ('with', '10', 'with', 10), ('one', '11', 'one', 11), ('phone', '12', 'phone', 12), ('call', '13', 'call', 13), ('?', '14', '?', 14)]
+
+love - hate
+3890(antonym)
+Alignment: [('3890\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('how', '2', 'how', 2), ('smooth', '3', 'bumpy', 3), ('nu', '4', 'nu', 4), ('road', '5', 'road', 5), ('is', '6', 'is', 6), ('....', '7', '....', 7), ('#', '8', '#', 8), ('not', '9', 'not', 9)]
+
+love - hate
+3896(antonym)
+Alignment: [('3896\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('being', '2', 'being', 2), ('asked', '3', 'asked', 3), ('a', '4', 'a', 4), ('million', '5', 'million', 5), ('questions', '6', 'questions', 6), ('the', '7', 'the', 7), ('second', '8', 'second', 8), ('i', '9', 'i', 9), ('get', '10', 'get', 10), ('home', '11', 'home', 11), ('from', '12', 'from', 12), ('work', '13', 'work', 13), ('.', '14', '.', 14)]
+
+love - hate
+3917(antonym)
+Alignment: [('3917\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('working', '2', 'working', 2), ('the', '3', 'the', 3), ('concession', '4', 'concession', 4), ('stand', '5', 'stand', 5), ('instead', '6', 'instead', 6), ('of', '7', 'of', 7), ('watching', '8', 'watching', 8), ('the', '9', 'the', 9), ('game', '10', 'game', 10), ('!', '11', '!', 11)]
+
+love - hate
+3918(antonym)
+Alignment: [('3918\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('working', '2', 'working', 2), ('the', '3', 'the', 3), ('concession', '4', 'concession', 4), ('stand', '5', 'stand', 5), ('instead', '6', 'instead', 6), ('of', '7', 'of', 7), ('watching', '8', 'watching', 8), ('the', '9', 'the', 9), ('game', '10', 'game', 10), ('!', '11', '.', 11)]
+
+glad - sad
+3938(antonym)
+Alignment: [('3938\tahh', '0', 'ahh', 0), ('i', '1', 'i', 1), ('&apos;m', '2', '&apos;m', 2), ('so', '3', 'so', 3), ('glad', '4', 'sad', 4), ('i', '5', 'i', 5), ('&apos;m', '6', '&apos;m', 6), ('at', '7', 'at', 7), ('work', '8', 'work', 8), ('already', '9', 'already', 9), ('makes', '10', 'makes', 10), ('me', '11', 'me', 11), ('think', '12', 'think', 12), ('how', '13', 'how', 13), ('blessed', '14', 'cursed', 14), ('i', '15', 'i', 15), ('am', '16', 'am', 16), ('ha', '17', ':', 17), ('ha', '17', '(', 18), ('#', '18', '#', 19), ('cannotbeassed', '19', 'cannotbeassed', 20)]
+
+much - little
+4001(antonym)
+Alignment: [('4001\tso', '0', 'so', 0), ('much', '1', 'little', 1), ('intellectual', '2', 'intellectual', 2), ('conversation', '3', 'conversation', 3), ('going', '4', 'going', 4), ('on', '5', 'on', 5), ('right', '6', 'right', 6), ('now', '7', 'now', 7)]
+
+best - worst
+4034(antonym)
+Alignment: [('4034\tha', '2', 'haha', 0), ('yeah', '5', 'yeah', 1), ('because', '6', 'because', 2), ('i', '7', '&apos;', 3), ('&apos;m', '8', 'm', 4), ('just', '9', 'm', 4), ('the', '10', 'the', 5), ('best', '11', 'worst', 6), ('at', '12', 'at', 7), ('pulling', '13', 'pulling', 8), ('!', '14', 'pulling', 8)]
+
+love - hate
+4175(antonym)
+Alignment: [('4175\tdon', '0', 'don', 0), ('&apos;t', '1', '&apos;t', 1), ('yeah', '2', 'yeah', 2), ('just', '3', 'just', 3), ('love', '4', 'hate', 4), ('when', '5', 'when', 5), ('one', '6', 'one', 6), ('of', '7', 'of', 7), ('your', '8', 'your', 8), ('&quot;', '9', '&quot;', 9), ('bestfriends', '10', 'bestfriends', 10), ('&quot;', '11', '&quot;', 11), ('completely', '12', 'completely', 12), ('drops', '13', 'drops', 13), ('you', '14', 'you', 14), ('from', '15', 'from', 15), ('their', '16', 'their', 16), ('life', '17', 'life', 17), ('for', '18', 'for', 18), ('some', '19', 'some', 19), ('guy', '20', 'guy', 20), ('?', '21', '?', 21)]
+
+better - worse
+4192(antonym)
+Alignment: [('4192\tahahahah', '0', 'i', 0), ('locked', '1', 'got', 1), ('ahahahah', '0', 'locked', 2), ('locked', '1', 'locked', 2), ('out', '2', 'out', 3), (',', '3', 'and', 4), ('this', '4', 'this', 5), ('day', '5', 'day', 6), ('keeps', '6', 'keeps', 7), ('getting', '7', 'getting', 8), ('better', '8', 'worse', 9), ('swear', '10', '.', 10)]
+
+great - bad
+4245(antonym)
+Alignment: [('4245\tnow', '1', 'now', 0), ('either', '2', 'either', 1), ('my', '3', 'my', 2), ('battery', '4', 'battery', 3), ('is', '5', 'is', 4), ('dead', '6', 'dead', 5), ('or', '7', 'or', 6), ('my', '8', 'my', 7), ('ignition', '9', 'ignition', 8), ('is', '10', 'is', 9), ('dead', '11', 'dead', 10), ('in', '12', 'in', 11), ('my', '13', 'my', 12), ('car', '14', 'car', 13), ('.', '15', '.', 14), ('day', '17', 'what', 15), ('great', '16', 'a', 16), ('great', '16', 'bad', 17), ('day', '17', 'day', 18), ('.', '18', '.', 19)]
+
+love - hate
+4299(antonym)
+Alignment: [('4299\ti', '0', 'i', 0), ('really', '1', 'really', 1), ('love', '2', 'hate', 2), ('it', '3', 'it', 3), ('when', '4', 'when', 4), ('i', '5', 'i', 5), ('miss', '6', 'miss', 6), ('two', '7', 'two', 7), ('buses', '8', 'buses', 8), ('?', '9', '?', 9), ('#', '10', '#', 10), ('moi', '11', 'moi', 11), ('?', '12', '?', 12)]
+
+love - hate
+4432(antonym)
+Alignment: [('4432\ttouser', '0', '@', 0), ('touser', '0', 'user', 1), ('just', '1', 'just', 2), ('love', '2', 'hate', 3), ('the', '3', 'the', 4), ('way', '4', 'way', 5), ('asdrubal', '5', 'asdrubal', 6), ('drives', '6', 'drives', 7), ('the', '7', 'the', 8), ('ball', '8', 'ball', 9), ('!', '9', '!', 10)]
+
+love - hate
+28(antonym)
+Alignment: [('28\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('it', '2', 'it', 2), ('when', '3', 'when', 3), ('my', '4', 'my', 4), ('legs', '5', 'legs', 5), ('feel', '6', 'feel', 6), ('like', '7', 'like', 7), ('rubber', '8', 'rubber', 8), ('bands', '9', 'bands', 9), ('#', '10', '#', 10), ('worthit', '11', 'worthit', 11)]
+
+love - hate
+30(antonym)
+Alignment: [('30\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('it', '2', 'it', 2), ('when', '3', 'when', 3), ('my', '4', 'my', 4), ('legs', '5', 'legs', 5), ('feel', '6', 'feel', 6), ('like', '7', 'like', 7), ('rubber', '8', 'rubber', 8), ('bands', '9', 'rubber', 8), ('bands', '9', 'bands', 9)]
+
+love - hate
+337(antonym)
+Alignment: [('337\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('the', '2', 'the', 2), ('dog', '3', 'food', 3), ('food', '4', 'food', 3), ('they', '5', 'they', 4), ('serve', '6', 'serve', 5), ('us', '7', 'us', 6), ('in', '8', 'in', 7), ('the', '9', 'the', 8), ('cafe', '10', 'cafe', 9), ('.', '11', '.', 16), ('#', '12', '#', 17), ('ecprobs', '13', 'ecprobs', 18)]
+
+realistic - unrealistic
+1607(antonym)
+Alignment: [('1607\twatching', '0', 'watching', 0), ('an', '1', 'an', 1), ('old', '2', 'old', 2), ('disney', '3', 'disney', 3), ('movie', '4', 'movie', 4), (',', '5', ',', 5), ('they', '6', 'they', 6), ('&apos;re', '7', '&apos;re', 7), ('giving', '8', 'giving', 8), ('someone', '9', 'someone', 9), ('cpr', '10', 'cpr', 10), ('.', '11', '.', 11), ('5', '12', '5', 12), ('chest', '13', 'chest', 13), ('compressions', '14', 'compressions', 14), ('and', '15', 'and', 15), ('a', '16', 'a', 16), ('quick', '17', 'quick', 17), ('pft', '18', 'pft', 18), ('!', '19', '!', 19), ('of', '20', 'of', 20), ('air', '21', 'air', 21), ('..', '22', '..', 22), ('that', '23', 'that', 23), ('&apos;s', '24', '&apos;s', 24), ('realistic', '25', 'unrealistic', 25), ('.', '26', '.', 26)]
+
+love - hate
+1817(antonym)
+Alignment: [('1817\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('when', '4', 'it', 2), ('when', '4', 'when', 3), ('people', '2', 'people', 4), ('who', '3', 'want', 5), ('you', '5', 'you', 11), ('like', '6', 'like', 12), ('one', '7', 'one', 13), ('stupid', '9', 'instagram', 14), ('artsy', '10', 'instagram', 14), ('instagram', '11', 'instagram', 14), ('picture', '12', 'picture', 15), ('of', '13', 'in', 16), ('theirs', '14', 'their', 17), ('message', '15', 'message', 18), ('and', '17', 'and', 19), ('you', '16', 'you', 20), ('are', '18', 'barely', 21), ('!', '25', '.', 24)]
+
+love - hate
+1820(antonym)
+Alignment: [('1820\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('people', '2', 'people', 2), ('who', '3', 'who', 3), ('when', '4', 'when', 4), ('you', '5', 'you', 5), ('like', '6', 'like', 6), ('one', '7', 'one', 7), (',', '8', ',', 8), ('stupid', '9', 'stupid', 9), ('artsy', '10', 'artsy', 10), ('instagram', '11', 'instagram', 11), ('picture', '12', 'picture', 12), ('of', '13', 'of', 13), ('theirs', '14', 'theirs', 14), ('message', '15', 'message', 15), ('you', '16', 'you', 16), ('and', '17', 'and', 17), ('are', '18', 'are', 18), ('all', '19', 'all', 19), ('&quot;', '20', '&quot;', 20), ('let', '21', 'let', 21), ('&apos;s', '22', '&apos;s', 22), ('hang', '23', 'hang', 23), ('out', '24', 'out', 24), ('!', '25', '!', 25), ('&quot;', '26', '&quot;', 26)]
+
+love - hate
+1821(antonym)
+Alignment: [('1821\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('when', '4', 'when', 2), ('you', '5', 'you', 3), ('like', '6', 'like', 4), ('one', '7', 'one', 5), ('of', '13', 'of', 6), ('theirs', '14', 'someone', 7), ('artsy', '10', '&apos;s', 8), ('stupid', '9', 'instagram', 9), ('artsy', '10', 'instagram', 9), ('instagram', '11', 'instagram', 9), ('picture', '12', 'instagram', 9), ('instagram', '11', 'photos', 10), ('and', '17', 'and', 11), ('theirs', '14', 'they', 12), ('message', '15', 'think', 13), ('you', '16', 'you', 14), ('hang', '23', 'hang', 16), ('out', '24', 'out', 17), ('!', '25', '.', 18)]
+
+disagree - agree
+2123(antonym)
+Alignment: [('2123\ttouser', '0', '@', 0), ('touser', '0', 'user', 1), ('touser', '1', '@', 2), ('touser', '1', 'user', 3), ('i', '2', 'i', 4), ('can', '3', 'can', 5), ('&apos;t', '4', '&apos;t', 6), ('imagine', '5', 'imagine', 7), ('why', '6', 'why', 8), ('you', '7', 'you', 9), ('would', '8', 'would', 10), ('disagree', '9', 'agree', 11), ('with', '10', 'with', 12), ('dana', '11', 'dana', 13), ('on', '12', 'on', 14), ('this', '13', 'this', 15), ('point', '14', 'point', 16), ('...', '15', '...', 17)]
+
+better - worse
+2659(antonym)
+Alignment: [('2659\twow', '0', 'wow', 0), ('..', '1', '..', 1), ('my', '2', 'my', 2), ('mood', '3', 'mood', 3), ('could', '4', 'could', 4), ('not', '5', 'not', 5), ('get', '6', 'get', 6), ('any', '7', 'any', 7), ('better', '8', 'worse', 8), ('.', '9', '.', 9)]
+
+love - hate
+2937(antonym)
+Alignment: [('2937\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('getting', '2', 'getting', 2), ('home', '3', 'home', 3), ('and', '4', 'and', 4), ('then', '5', 'then', 5), ('having', '6', 'having', 6), ('my', '7', 'my', 7), ('little', '8', 'little', 8), ('sister', '9', 'sister', 9), ('act', '10', 'act', 10), ('like', '11', 'like', 11), ('an', '12', 'an', 12), ('immature', '13', 'immature', 13), (',', '14', ',', 14), ('annoying', '15', 'annoying', 15), ('kid', '16', 'kid', 16), ('.', '17', '.', 17)]
+
+boring - interesting
+2737(antonym,counter_factual)
+Alignment: [('2737\ttouser', '0', 'yeah', 0), ('yeah', '1', 'yeah', 0), ('sounds', '2', 'it', 2), ('sounds', '2', 'sounds', 3), ('boring', '3', 'interesting', 4), (',', '4', '.', 5), ('glad', '5', 'i', 6), ('glad', '5', 'wish', 7), ('they', '6', 'they', 8), ('didn', '7', '&apos;d', 9), ('have', '9', 'had', 10), ('video', '10', 'video', 11), ('coverage', '11', 'coverage', 12), ('this', '12', 'this', 13), ('weekend', '13', 'weekend', 14)]
+
+always - never
+486(antonym,negation)
+Alignment: [('486\tchurch', '0', 'church', 0), ('is', '1', 'is', 1), ('always', '2', 'never', 2), ('so', '3', 'very', 3), ('much', '4', 'much', 4), ('fun', '5', 'fun', 5), ('hahahaha', '6', '.', 6)]
+
+always - never
+541(antonym,negation)
+Alignment: [('541\tauburn', '0', 'auburn', 0), ('has', '1', 'has', 1), ('always', '2', 'never', 2), ('been', '3', 'been', 3), ('my', '4', 'my', 4), ('favorite', '5', 'favorite', 5), ('team', '6', 'team', 6)]
+
+never - always
+688(antonym,negation)
+Alignment: [('688\ttouser', '0', 'boxing', 0), ('boxing', '1', 'boxing', 0), ('is', '2', 'is', 1), ('not', '3', 'crooked', 2), ('crooked', '4', 'crooked', 2), ('and', '5', 'and', 3), ('politicians', '6', 'politicians', 4), ('never', '7', 'always', 5), ('tell', '8', 'tell', 6), ('lies', '9', 'lies', 7), ('lies', '9', '.', 8)]
+
+love - hate
+2231(antonym,negation)
+Alignment: [('2231\ti', '0', 'i', 0), ('love', '1', 'hate', 1), ('getting', '2', 'getting', 2), ('put', '3', 'put', 3), ('on', '4', 'on', 4), ('the', '5', 'the', 5), ('back', '6', 'back', 6), ('burner', '7', 'burner', 7), ('#', '9', 'burner', 7), ('not', '10', 'burner', 7), ('.', '8', '.', 8)]
+
+always - never
+2927(antonym,negation)
+Alignment: [('2927\tits', '0', 'it', 0), ('has', '1', 'has', 1), ('always', '2', 'never', 2), ('been', '3', 'been', 3), ('amazing', '4', 'been', 3), ('amazing', '4', 'fun', 4), ('going', '5', 'going', 5), ('out', '6', 'out', 6), ('alone', '7', 'alone', 7), ('-', '9', 'alone', 7), ('_', '10', 'alone', 7), ('-', '11', 'alone', 7), ('http', '12', 'alone', 7), ('/', '15', 'alone', 7), ('t.co', '16', 'alone', 7), ('/', '17', 'alone', 7), ('1h3r1upx1q', '18', 'alone', 7), ('.', '8', '.', 8), (':', '13', '.', 8), ('/', '14', '.', 8)]
+
+right - wrong
+3038(antonym,negation)
+Alignment: [('3038\ti', '0', 'i', 0), ('managed', '1', 'was', 1), ('managed', '1', 'able', 3), ('to', '2', 'to', 4), ('save', '3', 'save', 5), ('save', '3', 'any', 6), ('all', '4', 'any', 6), ('all', '4', 'of', 7), ('my', '5', 'my', 8), ('homework', '6', 'homework', 9), ('for', '7', 'for', 10), ('tomorrow', '8', 'tomorrow', 11), ('.', '9', '.', 12), ('starting', '10', 'starting', 13), ('starting', '10', 'of', 14), ('the', '11', 'the', 15), ('school', '12', 'school', 16), ('year', '13', 'year', 17), ('off', '14', 'in', 18), ('the', '15', 'the', 19), ('right', '16', 'wrong', 20), ('way', '17', 'way', 21)]
+
+much - little
+3963(antonym,negation)
+Alignment: [('3963\tthank', '0', 'that', 3), ('you', '1', 'you', 4), ('for', '2', 'care', 5), ('caring', '3', 'care', 5), ('so', '4', 'so', 6), ('much', '5', 'little', 7), ('that', '6', 'that', 8), ('you', '7', 'you', 9), ('actually', '8', 'didn', 10), ('came', '9', '&apos;t', 11), ('came', '9', 'come', 12), ('and', '10', 'and', 13), ('checked', '11', 'check', 14), ('on', '12', 'on', 15), ('me', '13', 'me', 16), ('dad', '14', 'dad', 18), (',', '15', ',', 19), ('it', '16', 'it', 20), ('means', '17', 'would', 21), ('means', '17', 'have', 22), ('means', '17', 'meant', 23), ('so', '18', 'so', 24), ('much', '19', 'much', 25)]
+
+love - hate
+719(antonym,negation)
+Alignment: [('719\ti', '1', 'i', 0), ('love', '2', 'hate', 1), ('walmart', '3', 'walmart', 2), ('.', '4', '.', 3), ('i', '5', 'i', 4), ('feel', '6', 'feel', 5), ('like', '7', 'like', 6), ('i', '8', 'i', 7), ('fit', '9', 'don', 8), ('fit', '9', 'fit', 10), ('in', '10', 'in', 11), ('there', '11', 'there', 12), ('.', '12', '.', 13), ('#', '13', '.', 13)]
+
+glad - sad
+1082(antonym,negation_intensifier)
+Alignment: [('1082\tglad', '0', 'i', 0), ('glad', '0', 'am', 1), ('glad', '0', 'sad', 2), ('i', '1', 'i', 3), ('have', '2', 'have', 4), ('a', '3', 'a', 5), ('boyfriend', '4', 'boyfriend', 6), ('that', '5', 'boyfriend', 6), ('truly', '6', 'boyfriend', 6), ('cares', '7', 'boyfriend', 6), ('that', '5', 'that', 7), ('truly', '6', 'doesn', 8), ('cares', '7', '&apos;t', 9), ('cares', '7', 'care', 10), ('cares', '7', '.', 11)]
+
+love - hate
+3754(antonym,pragmatic_inference)
+Alignment: [('3754\tno', '0', 'i', 0), ('really', '1', 'really', 1), ('love', '19', 'hate', 2), ('stupidpeoplepissmeoff', '22', 'when', 3), ('please', '3', 'people', 4), ('leaving', '5', 'leave', 5), ('the', '6', 'the', 6), ('gate', '7', 'gate', 7), ('open', '8', 'open', 8), ('so', '9', 'so', 9), ('my', '10', 'my', 10), ('dogs', '11', 'dog', 11), ('can', '12', 'runs', 12), ('continue', '13', 'runs', 12), ('to', '14', 'runs', 12), ('run', '15', 'runs', 12), ('off', '16', 'off', 13), ('...', '17', '.', 14)]
+
+love - do
+3791(negation_intensifier,antonym)
+Alignment: [('3791\treally', '0', 'i', 0), ('love', '1', 'do', 1), ('love', '1', 'understand', 3), ('how', '2', 'how', 4), ('a', '3', 'a', 5), ('test', '4', 'test', 6), ('in', '5', 'in', 7), ('spanish', '6', 'spanish', 8), ('will', '7', 'will', 9), ('have', '8', 'impact', 10), ('less', '9', 'impact', 10), ('of', '10', 'impact', 10), ('an', '11', 'impact', 10), ('impact', '12', 'impact', 10), ('my', '14', 'my', 11), ('grade', '15', 'grade', 12), ('than', '16', 'grade', 12), ('will', '17', 'grade', 12), ('grade', '15', 'more', 13), ('grade', '15', 'then', 14), ('grade', '15', 'my', 15), ('homework', '18', 'homework', 16), ('.', '19', '.', 17)]
+
+great - bad
+59(antonym)
+Alignment: [('59\thad', '0', 'had', 0), ('a', '1', 'a', 1), ('great', '2', 'bad', 2), ('time', '3', 'time', 3), ('with', '4', 'with', 4), ('my', '5', 'my', 5), ('babe', '6', 'babe', 6), ('tonight', '7', 'tonight', 7), ('#', '8', '#', 8), ('lolz', '9', 'lolz', 9)]
+
+neighbour - neighbor
+98(antonym)
+Alignment: [('98\tmy', '0', 'my', 0), ('lovely', '1', 'rude', 1), ('neighbour', '2', 'neighbor', 2), ('is', '3', 'is', 3), ('vacuuming', '4', 'vacuuming', 4), ('this', '5', 'this', 5), ('time', '6', 'time', 6), ('of', '7', 'of', 7), ('night', '9', 'night', 8)]
+
+much - little
+126(antonym)
+Alignment: [('126\tso', '0', 'so', 0), ('much', '1', 'little', 1), ('talk', '2', 'talk', 2), ('about', '3', 'about', 3), ('the', '4', 'the', 4), ('scotland', '5', 'scotland', 5), ('game', '6', 'game', 6), ('tonight', '7', 'tonight', 7), ('the', '8', 'the', 8), ('whole', '9', 'whole', 9), ('nation', '10', 'nation', 10), ('is', '11', 'is', 11), ('buzzing', '12', 'ignoring', 12), ('!', '13', 'it', 13), ('!', '14', '.', 14), ('#', '15', '#', 15), ('tartanarmy', '16', 'tartanarmy', 16)]
+
+love - hate
+206(antonym)
+Alignment: [('206\tyou', '0', 'you', 0), ('gotta', '1', 'gotta', 1), ('love', '2', 'hate', 2), ('a', '3', 'a', 3), ('game', '4', 'game', 4), ('with', '5', 'with', 5), ('bogus', '6', 'bogus', 6), ('refs', '7', 'refs', 7), ('#', '8', '#', 8), ('refsneedsglasses', '9', 'refsneedsglasses', 9)]
+
