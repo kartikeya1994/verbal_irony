@@ -12,8 +12,11 @@ s = set()
 out = open(sys.argv[1] + '.dedup', 'w')
 for l in lines:
     l = l.strip()
+    l = l.replace('#sarcasm', '')
     if l not in s:
         out.write(l + '\n')
+    
+    
     s.add(l)
 out.close()
 print('Unique lines: {}'.format(len(s)))
