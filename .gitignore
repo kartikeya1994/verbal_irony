@@ -1,4 +1,5 @@
 sarc.reddit.data.25k.txt.train.pkl
+rq_tweets/.ipynb_checkpoints/RQorNot-checkpoint.ipynb
 rq_tweets/.ipynb_checkpoints/*
 rq_tweets/data_collection/twarc.log
 AntonymsLexicon-OppCats-Affixes
